@@ -1,1 +1,231 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:26:10.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="TNNGG7Idv9sktu6thv76" version="18.2.0" type="github"><diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">7VtNc5swEP01HNMByXwdYzdJD22nM5lpp0cVZKCRkUeWY7u/vsIWGFlxAjgp6kQns6tFSPueJe0zduBssb1jaJl/oSkmDnDTrQM/OgB4EzcSH5Vnd/CEE+nIWJHKoKPjvviDpdOV3nWR4pUSyCklvFiqzoSWJU644kOM0Y0aNqdEfeoSZVhz3CeI6N4fRcpz6fVc99jwCRdZLh8d+bLhF0oeMkbXpXxeSUt8aFmguhsZuspRSjctF7xx4IxRyg9Xi+0MkyqtdcYO992eaW2GzHDJu9wQgCiGXhQl7hyFMABXsodHRNYyDTNapgUvaClHzHd1gjZ5wfH9EiWVvREkcOA05wsiLE9c7jOAU2k1M60Mgn5hMm3SNKOEMtG0T5QI5Yw+NDmv4ue05LdoUZCKSt8xS1GJpFvyxhOpmyJSZKUwEjF7LDqc6umo54cZx9uWS6bnDtMF5mwnQmRrUNNRsrgGedOiRI1m3mJDIH1IsjBrej7CIS4kIh3RARo6DggIr3K2RAKgIKuuW4gdGsVz2u3vE8gJVIH0wjGRhBbJwUiGkUlITjQkv1INl2PiXRWRl9KOGL+u9rIT321RDXDf2d6WKfeFjcv05A7hacULqxX9G3O+kzZacypclPGcZrRE5DOly5orwwhwDuwVXbMEP78HiXllmJ+Jkd8fnCp7+FnKXLkfoOsClTayD4YJ4sWjuus/RRHZ+zdaiNkcQ+h8vhLjPOVQM4hhtPI1Wv0UhyHLqzfmFejPKz9WaHXleSbzKrIbz+CNBwJ14wHRmBtPbJEcjKQ/MQnJusR4Acrr5E1wdC/BEYxcncVG4ahXzxbHTjhGkVE42jp7OJReoEIJY39MKG2hfYFkEhsFpV5p25LowpJI3vZsSSQrhh4lkVpnN8CZWRB5eqVtBZy3Z1V8IasMJ1Vg16rXZhXswKq6kupDq6CmUrNeGS0MeqFdr8ZgltebWR6IVWbV0BlKLF0atGvWhcyKujCrv+Ysiqzovzpj6VqlXbP+AbP6/0oGosnJOQuYTCygK6e1uvYeZbRQrdd9d0wVDVg1dCCMzUtGZuDYTQ21OOr6mfbu2Kg4dpNCLY76r4WRUThaHfT1Xw3pIlmBnuKCqABhCE/O6YHRxymrhY7DrJ7iwhPMMpxYVg99fWZ1ka3qw1t3ZrkuPF2zzC4BrR46DrN6iguGrVnCPP7N5hB+/BsTvPkL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-01T14:09:22.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="S7SVvPn_rjePw53HHtMa" version="18.2.0" type="github">
+  <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
+    <mxGraphModel dx="1420" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62893188c0fa7362-1" value="&lt;a href=&quot;https://attack.mitre.org/groups/G0016&quot; style=&quot;font-size: 18px;&quot;&gt;APT-29 &lt;br style=&quot;font-size: 18px;&quot;&gt;(MITRE ATT&amp;amp;CK)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=3;fontFamily=Courier New;fontSize=18;align=center;fontStyle=1;strokeColor=#FF0000;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Focused Attack on Company XYZ&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="430" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Opportunistic&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="810" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-4" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-3" edge="1">
+          <mxGeometry x="-0.3002" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-5" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-1" target="62893188c0fa7362-2" edge="1">
+          <mxGeometry x="-0.359" y="-11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="62893188c0fa7362-8" target="MK2UA-36ZD0nFeq-ao1X-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-8" value="&lt;a href=&quot;https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html&quot; style=&quot;font-size: 14px;&quot;&gt;Cyber Kill Chain&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="62893188c0fa7362-10" target="MK2UA-36ZD0nFeq-ao1X-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Scanned Repos (Keys), Ports, Services and Data Dumps&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="740" y="210" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Insider Source/Intel/Leak&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="260" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-14" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-8" edge="1">
+          <mxGeometry x="-0.2" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-15" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="62893188c0fa7362-2" target="62893188c0fa7362-3" edge="1">
+          <mxGeometry x="-0.2" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="575" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-16" value="" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-3" target="62893188c0fa7362-10" edge="1">
+          <mxGeometry x="-0.2614" y="-13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-19" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-8" target="62893188c0fa7362-13" edge="1">
+          <mxGeometry x="0.344" y="24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-22" value="DLP, SAAS App Inspection, &lt;a href=&quot;https://www.varonis.com/blog/user-entity-behavior-analytics-ueba&quot; style=&quot;font-size: 14px;&quot;&gt;UBA&lt;/a&gt;, &lt;a href=&quot;https://canarytokens.org/&quot; style=&quot;font-size: 14px;&quot;&gt;Honey Pot, Honey Token&lt;/a&gt;, Web Traffic Analysis, IPS/IDS, SIEM." style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="225" y="440" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Investigate the source of the leak: Malware, Ransomware, Breach, C2, Cloud Leak&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="430" y="440" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="62893188c0fa7362-26" value="Yes" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-13" target="62893188c0fa7362-22" edge="1">
+          <mxGeometry x="0.0033" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62893188c0fa7362-27" value="No" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=none;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontStyle=1" parent="1" source="62893188c0fa7362-13" target="62893188c0fa7362-23" edge="1">
+          <mxGeometry x="0.1373" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Attack Tree based on Russian Cyber activity during Ukrainian War 2022.&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;Types of targets, techniques and tactices&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF1C1C;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-3" value="DRAFT V0.1.3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FF1C1C;strokeWidth=2;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-4" value="Report Findings to: Board, Employees, Clients, Regulators, &lt;a href=&quot;https://www.fsisac.com/intelligenceexchange&quot; style=&quot;font-size: 14px;&quot;&gt;Intel Sharing Platform (ISIAC)&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Courier New;fontSize=14;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-17" target="MK2UA-36ZD0nFeq-ao1X-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-17" target="MK2UA-36ZD0nFeq-ao1X-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-17" value="Exfiltrate S3 Data.&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="560" width="190" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-18" target="MK2UA-36ZD0nFeq-ao1X-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-18" value="Leak to Public" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-19" value="Ransom Data" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-30" target="MK2UA-36ZD0nFeq-ao1X-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-30" target="MK2UA-36ZD0nFeq-ao1X-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="938" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; font-weight: 700;&quot;&gt;Public AWS Secret Keys&lt;br&gt;&amp;nbsp;on Github Repo&lt;/span&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.temporary_security_credential;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="800" y="282.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="420" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;fontFamily=Comic Sans MS;shadow=1;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-37">
+          <mxGeometry width="75" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-35" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;S3 Bucket&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;shadow=1;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-37">
+          <mxGeometry y="69.25925925925927" width="100" height="40.74074074074075" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-38" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="390" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-27" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Courier New&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;EC2 Application&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Comic Sans MS;shadow=1;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-38">
+          <mxGeometry y="64.60176991150443" width="150" height="35.39823008849558" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.instance2;fontFamily=Comic Sans MS;shadow=1;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-38">
+          <mxGeometry x="20" width="69.02654867256638" height="69.02654867256638" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=18;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-35" target="MK2UA-36ZD0nFeq-ao1X-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" target="MK2UA-36ZD0nFeq-ao1X-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="260" width="110" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-51" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;a style=&quot;font-family: &amp;quot;Courier New&amp;quot;; font-size: 19px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250);&quot; href=&quot;https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf&quot;&gt;NIST IR&lt;/a&gt;" style="text;whiteSpace=wrap;html=1;fontSize=19;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-55">
+          <mxGeometry y="75" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-52" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.systems_manager_incident_manager;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="MK2UA-36ZD0nFeq-ao1X-55">
+          <mxGeometry width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-56" target="MK2UA-36ZD0nFeq-ao1X-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-56" value="SSRF IMDS V1" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-59" target="MK2UA-36ZD0nFeq-ao1X-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="595" />
+              <mxPoint x="830" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-59" value="&lt;a href=&quot;https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/&quot;&gt;Recon AWS Credential Access&lt;/a&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-61" target="MK2UA-36ZD0nFeq-ao1X-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-61" value="Any of the Following: Ranswomware, Crypto Mining, Data Exfil, Lambda Malware, C&amp;amp;C Hosting, etc." style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="597" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/seo_bug_search-128.png;shadow=0;dashed=1;sketch=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;strokeColor=#FF0000;strokeWidth=3;fillColor=none;gradientColor=#FF0080;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="450" y="730" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-66" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#F06650;strokeColor=#ffffff;verticalAlign=top;align=center;points=[];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=threat3;resIcon=mxgraph.cisco_safe.threat.threat_c2;shadow=0;dashed=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="518" y="738.5" width="50" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-67" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lambda_function;shadow=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="300" y="738.5" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/fintech-icon/128/02_Bitcoin_Chipset-128.png;shadow=0;dashed=1;sketch=0;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;strokeColor=#FF0000;strokeWidth=3;fillColor=none;gradientColor=#FF0080;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="362" y="725" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" edge="1" parent="1" source="MK2UA-36ZD0nFeq-ao1X-27" target="MK2UA-36ZD0nFeq-ao1X-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-75" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website_public;fontFamily=Comic Sans MS;fontSize=19;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="725" width="114" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://academy.avast.com/hs-fs/hubfs/New_Avast_Academy/What%20Is%20the%20Dark%20Web/What-is-Dark-web-01-refresh.png?width=1320&amp;name=What-is-Dark-web-01-refresh.png;" vertex="1" parent="1">
+          <mxGeometry x="960" y="712.27" width="125" height="113.46" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-83" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://info.varonis.com/hubfs/Imported_Blog_Media/c2-hacking-hero-1.png;clipPath=inset(0% 33.33% 0% 33.33% round 49%);" vertex="1" parent="1">
+          <mxGeometry x="200" y="727.5" width="83" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="MK2UA-36ZD0nFeq-ao1X-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2943/2943443.png;" vertex="1" parent="1">
+          <mxGeometry x="588" y="721" width="92" height="92" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
